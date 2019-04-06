@@ -12,7 +12,7 @@ namespace Pady;
 
 use pocketmine\{Server, Player};
 use pocketmine\scheduler\Task;
-use pocketmine\utils\TextFormat as R;
+use pocketmine\utils\TextFormat as TF;
 use pocketmine\Plugin;
 
 class HealthBar extends Task{
